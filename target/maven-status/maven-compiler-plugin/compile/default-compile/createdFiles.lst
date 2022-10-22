@@ -1,0 +1,7 @@
+order\OrderClient.class
+user\UserClient.class
+config\Config.class
+config\DataProvider.class
+order\Order.class
+user\UserCredentials.class
+user\User.class
